@@ -1,0 +1,7 @@
+Nombre: Javier Ignacio Gamarra Mita
+nombre del dataset: Banking Dataset - Marketing Targets
+Url del dataset: https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets?select=train.csv
+Temática: campañas de marketing directo de una institución bancaria portuguesa
+Variables de entrada: Edad, trabajo,estado civil,edcucacion,default, saldo, vivienda, prestamo,contacto, dia, mes, duracion, campaña, pdays, previo, poutcome
+Variables de salida: ¿el cliente se ha suscrito a un depósito a plazo?
+Formato: .cvs
